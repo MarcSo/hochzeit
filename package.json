@@ -22,7 +22,10 @@
     "gulp": "^4.0.2",
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0.2",
-    "gulp-uglify": "^3.0.2"
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.32.0",
+    "sass-loader": "^10.1.0",
+    "webpack": "^5.11.1"
   },
   "dependencies": {
     "animate.css": "^3.7.2",
