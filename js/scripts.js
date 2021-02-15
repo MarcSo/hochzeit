@@ -187,7 +187,7 @@ $(document).ready(function () {
             title: "Kathy's und Marc's Hochzeit!",
 
             // Event start date
-            start: new Date('Oct 09, 2021 15:30'),
+            start: new Date('Oct 09, 2021 14:30'),
 
             // Event duration (IN MINUTES)
             // duration: 120,
@@ -197,7 +197,7 @@ $(document).ready(function () {
             end: new Date('Oct 10, 2021 06:00'),
 
             // Event Address
-            address: 'Brauhaus Mattlerhof, Duisburg',
+            address: 'Wasserhäuschen - Wolfskuhlenallee 77, 47495 Rheinberg',
 
             // Event Description
             description: "Wir freuen uns sehr auf Euch. Bei Anmerkungen oder Fragen meldet euch (015751189964)!"
